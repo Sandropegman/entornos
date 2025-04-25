@@ -1,0 +1,81 @@
+﻿  JuegoJava.cpp
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(42,9): error C2360: la inicialización de 'espada' se omite en la etiqueta 'case'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(24,17):
+      vea la declaración de 'espada'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(63,9): error C2360: la inicialización de 'arco' se omite en la etiqueta 'case'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(43,17):
+      vea la declaración de 'arco'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(63,9): error C2360: la inicialización de 'espada' se omite en la etiqueta 'case'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(24,17):
+      vea la declaración de 'espada'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(82,9): error C2360: la inicialización de 'lanza' se omite en la etiqueta 'case'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(64,17):
+      vea la declaración de 'lanza'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(82,9): error C2360: la inicialización de 'arco' se omite en la etiqueta 'case'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(43,17):
+      vea la declaración de 'arco'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(82,9): error C2360: la inicialización de 'espada' se omite en la etiqueta 'case'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(24,17):
+      vea la declaración de 'espada'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(102,9): error C2361: la inicialización de 'hand' se omite en la etiqueta 'default'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(83,17):
+      vea la declaración de 'hand'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(102,9): error C2361: la inicialización de 'lanza' se omite en la etiqueta 'default'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(64,17):
+      vea la declaración de 'lanza'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(102,9): error C2361: la inicialización de 'arco' se omite en la etiqueta 'default'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(43,17):
+      vea la declaración de 'arco'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(102,9): error C2361: la inicialización de 'espada' se omite en la etiqueta 'default'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(24,17):
+      vea la declaración de 'espada'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(144,13): error C2360: la inicialización de 'espada' se omite en la etiqueta 'case'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(126,21):
+      vea la declaración de 'espada'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(165,13): error C2360: la inicialización de 'arco' se omite en la etiqueta 'case'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(145,21):
+      vea la declaración de 'arco'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(165,13): error C2360: la inicialización de 'espada' se omite en la etiqueta 'case'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(126,21):
+      vea la declaración de 'espada'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(184,13): error C2360: la inicialización de 'lanza' se omite en la etiqueta 'case'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(166,21):
+      vea la declaración de 'lanza'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(184,13): error C2360: la inicialización de 'arco' se omite en la etiqueta 'case'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(145,21):
+      vea la declaración de 'arco'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(184,13): error C2360: la inicialización de 'espada' se omite en la etiqueta 'case'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(126,21):
+      vea la declaración de 'espada'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(204,13): error C2361: la inicialización de 'hand' se omite en la etiqueta 'default'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(185,21):
+      vea la declaración de 'hand'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(204,13): error C2361: la inicialización de 'lanza' se omite en la etiqueta 'default'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(166,21):
+      vea la declaración de 'lanza'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(204,13): error C2361: la inicialización de 'arco' se omite en la etiqueta 'default'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(145,21):
+      vea la declaración de 'arco'
+  
+C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(204,13): error C2361: la inicialización de 'espada' se omite en la etiqueta 'default'
+      C:\Users\sandropegman\OneDrive - Centre d'Estudis Monlau\C++\JuegoJava\JuegoJava.cpp(126,21):
+      vea la declaración de 'espada'
+  
